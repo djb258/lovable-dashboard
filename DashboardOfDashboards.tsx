@@ -1,5 +1,6 @@
 // Dashboard of Dashboards - Main Integration Component for Lovable.dev
 // Central hub for all repository and project dashboards
+'use client';
 
 import React, { useState, useEffect } from 'react';
 import { RepositoryDashboard, Repository, BuildPlatform, BuildStatus } from './RepositoryDashboard';

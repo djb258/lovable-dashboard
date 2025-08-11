@@ -1,5 +1,6 @@
 // Repository Dashboard Component for Lovable.dev
 // Migrated from repo-lens to create the "Dashboard of Dashboards"
+'use client';
 
 import React, { useState, useEffect } from 'react';
 
